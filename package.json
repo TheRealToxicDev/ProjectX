@@ -16,8 +16,7 @@
     },
 
     "scripts": {
-        "start": "node main/main.js",
-        "install": "npm install"
+        "start": "node main/main.js"
     },
 
     "author": "TheRealToxicDev",
