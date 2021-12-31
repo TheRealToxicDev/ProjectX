@@ -1,0 +1,38 @@
+{
+    "name": "project-x",
+    "description": "I mean. Do you even want to know!",
+    "version": "2.0.0",
+    "main": "main/main.js",
+
+    "engineStrict": true,
+
+    "engines": {
+        "node": "^16.x"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheRealToxicDev/ProjectX.git"
+    },
+
+    "scripts": {
+        "test": "echo \"Error: No test specified\" && exit 1",
+        "start": "node main/main.js",
+        "install": "npm install"
+    },
+
+    "author": "TheRealToxicDev",
+    "license": "MIT",
+
+    "dependencies": {
+        "clear-it": "^1.0.0",
+        "cmd-line": "^1.0.2",
+        "discord.js": "^13.3.1",
+        "fs": "0.0.1-security",
+        "node-cmd": "^3.0.0",
+        "node-run-cmd": "^1.0.1",
+        "readline-sync": "^1.4.10",
+        "request": "^2.88.0",
+        "termcolor": "^0.2.0"
+    }
+}
