@@ -1,0 +1,17 @@
+# All of the actual Tools
+tools/ @TheRealToxicDev
+
+# All of the Main Files
+main/ @TheRealToxicDev
+
+# All of the Config Files
+configs/ @TheRealToxicDev
+
+# Base Directory Files
+package-lock.json @TheRealToxicDev
+package.json @TheRealToxicDev
+SECURITY @TheRealToxicDev
+README.md @TheRealToxicDev
+start.bat @TheRealToxicDev
+LICENSE @TheRealToxicDev
+CODEOWNERS @TheRealToxicDev
